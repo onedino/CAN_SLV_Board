@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=485_L Pin=R14-2
+Removed Pin From Net: NetName=485_H Pin=R15-1
+Change Component Designator: OldDesignator=RN1 NewDesignator=RN2
+Added Component: Designator=D?(SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "http://www.mouser.com/ds/2/308/MBRA210LT3-D-76406.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "If"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "350mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vrrm"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=P2(1X8_HDR_2.00mm_PH)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(1X4_HDR_2.00mm_PH)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=RN3(RESCAXS50P160X320X70-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_A Pin=D?-A
+Added Pin To Net: NetName=MOS1 Pin=P2-1
+Added Pin To Net: NetName=MOS2 Pin=P2-2
+Added Pin To Net: NetName=MOS3 Pin=P2-3
+Added Pin To Net: NetName=MOS4 Pin=P2-4
+Added Pin To Net: NetName=485_H Pin=P3-2
+Added Pin To Net: NetName=485_L Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Pin To Net: NetName=485_H Pin=R14-2
+Added Pin To Net: NetName=485_L Pin=R15-1
+Change Net Name : Old Net Name=NetRN1_1 New Net Name=NetRN2_1
+Change Net Name : Old Net Name=NetRN1_2 New Net Name=NetRN2_2
+Change Net Name : Old Net Name=NetRN1_3 New Net Name=NetRN2_3
+Change Net Name : Old Net Name=NetRN1_4 New Net Name=NetRN2_4
+Added Pin To Net: NetName=5VP Pin=D?-K
+Added Pin To Net: NetName=5VP Pin=P3-1
+Added Net: Name=5VP
+Added Pin To Net: NetName=INPUT1 Pin=P2-5
+Added Pin To Net: NetName=INPUT1 Pin=RN3-8
+Added Net: Name=INPUT1
+Added Pin To Net: NetName=INPUT2 Pin=P2-6
+Added Pin To Net: NetName=INPUT2 Pin=RN3-7
+Added Net: Name=INPUT2
+Added Pin To Net: NetName=INPUT3 Pin=P2-7
+Added Pin To Net: NetName=INPUT3 Pin=RN3-6
+Added Net: Name=INPUT3
+Added Pin To Net: NetName=INPUT4 Pin=P2-8
+Added Pin To Net: NetName=INPUT4 Pin=RN3-5
+Added Net: Name=INPUT4
+Added Pin To Net: NetName=NetRN3_1 Pin=RN3-1
+Added Pin To Net: NetName=NetRN3_1 Pin=U2-14
+Added Net: Name=NetRN3_1
+Added Pin To Net: NetName=NetRN3_2 Pin=RN3-2
+Added Pin To Net: NetName=NetRN3_2 Pin=U2-15
+Added Net: Name=NetRN3_2
+Added Pin To Net: NetName=NetRN3_3 Pin=RN3-3
+Added Pin To Net: NetName=NetRN3_3 Pin=U2-16
+Added Net: Name=NetRN3_3
+Added Pin To Net: NetName=NetRN3_4 Pin=RN3-4
+Added Pin To Net: NetName=NetRN3_4 Pin=U2-17
+Added Net: Name=NetRN3_4
+Added Member To Class: ClassName=STM32F405 Member=Component D? MBRA210LT3G
+Added Member To Class: ClassName=STM32F405 Member=Component P2 Header 8
+Added Member To Class: ClassName=STM32F405 Member=Component P3 Header 4
+Added Member To Class: ClassName=STM32F405 Member=Component RN2 resistor network
+Added Member To Class: ClassName=STM32F405 Member=Component RN3 resistor network

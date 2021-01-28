@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=UART1 Old Footprint=HDR1X4_2.54MMP New Footprint=1X4_HDR_2.00mm_PH
+Added Member To Class: ClassName=STM32F405 Member=Component D2 LED_Green_GullWing

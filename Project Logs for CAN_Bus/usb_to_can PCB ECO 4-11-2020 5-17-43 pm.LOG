@@ -1,0 +1,12 @@
+Added Component: Designator=U4(SOIC127P600X175-8AN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/ds/symlink/sn65hvd230.pdf?ts=1604457324049&ref_url=https%253A%252F%252Fwww.google.com%252F"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_TX Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=3V3 Pin=U4-3
+Added Pin To Net: NetName=CAN_RX Pin=U4-4
+Added Pin To Net: NetName=CAN_L Pin=U4-6
+Added Pin To Net: NetName=CAN_H Pin=U4-7
+Added Pin To Net: NetName=NetR11_2 Pin=U4-8
+Added Member To Class: ClassName=STM32F405 Member=Component U4 SN65HVD23x

@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=MOS1 Pin=RN2-1
+Removed Pin From Net: NetName=MOS2 Pin=RN2-2
+Removed Pin From Net: NetName=MOS3 Pin=RN2-3
+Removed Pin From Net: NetName=MOS4 Pin=RN2-4
+Removed Pin From Net: NetName=INPUT1 Pin=RN3-1
+Removed Pin From Net: NetName=INPUT2 Pin=RN3-2
+Removed Pin From Net: NetName=INPUT3 Pin=RN3-3
+Removed Pin From Net: NetName=INPUT4 Pin=RN3-4
+Added Pin To Net: NetName=MOS4 Pin=RN2-5
+Added Pin To Net: NetName=MOS3 Pin=RN2-6
+Added Pin To Net: NetName=MOS2 Pin=RN2-7
+Added Pin To Net: NetName=MOS1 Pin=RN2-8
+Added Pin To Net: NetName=INPUT4 Pin=RN3-5
+Added Pin To Net: NetName=INPUT3 Pin=RN3-6
+Added Pin To Net: NetName=INPUT2 Pin=RN3-7
+Added Pin To Net: NetName=INPUT1 Pin=RN3-8
+Added Pin To Net: NetName=NetRN2_1 Pin=RN2-1
+Added Pin To Net: NetName=NetRN2_1 Pin=U2-8
+Added Net: Name=NetRN2_1
+Added Pin To Net: NetName=NetRN2_2 Pin=RN2-2
+Added Pin To Net: NetName=NetRN2_2 Pin=U2-9
+Added Net: Name=NetRN2_2
+Added Pin To Net: NetName=NetRN2_3 Pin=RN2-3
+Added Pin To Net: NetName=NetRN2_3 Pin=U2-10
+Added Net: Name=NetRN2_3
+Added Pin To Net: NetName=NetRN2_4 Pin=RN2-4
+Added Pin To Net: NetName=NetRN2_4 Pin=U2-11
+Added Net: Name=NetRN2_4
+Added Pin To Net: NetName=NetRN3_1 Pin=RN3-1
+Added Pin To Net: NetName=NetRN3_1 Pin=U2-14
+Added Net: Name=NetRN3_1
+Added Pin To Net: NetName=NetRN3_2 Pin=RN3-2
+Added Pin To Net: NetName=NetRN3_2 Pin=U2-15
+Added Net: Name=NetRN3_2
+Added Pin To Net: NetName=NetRN3_3 Pin=RN3-3
+Added Pin To Net: NetName=NetRN3_3 Pin=U2-16
+Added Net: Name=NetRN3_3
+Added Pin To Net: NetName=NetRN3_4 Pin=RN3-4
+Added Pin To Net: NetName=NetRN3_4 Pin=U2-17
+Added Net: Name=NetRN3_4

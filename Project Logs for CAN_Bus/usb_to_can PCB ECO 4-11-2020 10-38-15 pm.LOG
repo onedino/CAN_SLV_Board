@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=MOSFET-1
+Removed Pin From Net: NetName=MOS4 Pin=MOSFET-2
+Removed Pin From Net: NetName=MOS3 Pin=MOSFET-3
+Removed Pin From Net: NetName=MOS2 Pin=MOSFET-4
+Removed Pin From Net: NetName=MOS1 Pin=MOSFET-5
+Removed Pin From Net: NetName=3V3 Pin=MOSFET-6
+Added Pin To Net: NetName=5V Pin=MOSFET-1
+Added Pin To Net: NetName=MOS1 Pin=MOSFET-2
+Added Pin To Net: NetName=MOS2 Pin=MOSFET-3
+Added Pin To Net: NetName=MOS3 Pin=MOSFET-4
+Added Pin To Net: NetName=MOS4 Pin=MOSFET-5
+Added Pin To Net: NetName=GND Pin=MOSFET-6
+Added Member To Class: ClassName=STM32F405 Member=Component RN1 resistor network

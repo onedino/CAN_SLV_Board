@@ -1,0 +1,37 @@
+Added Component: Designator=U2(LQFP64)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=U2-1
+Added Pin To Net: NetName=NetU2_5 Pin=U2-5
+Added Pin To Net: NetName=NetC13_2 Pin=U2-7
+Added Pin To Net: NetName=LED1 Pin=U2-9
+Added Pin To Net: NetName=LED2 Pin=U2-10
+Added Pin To Net: NetName=LED3 Pin=U2-11
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=3V3 Pin=U2-13
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=3V3 Pin=U2-19
+Added Pin To Net: NetName=SPI1_SCK Pin=U2-21
+Added Pin To Net: NetName=SPI1_MISO Pin=U2-22
+Added Pin To Net: NetName=SPI1_MOSI Pin=U2-23
+Added Pin To Net: NetName=SPI1_CS Pin=U2-24
+Added Pin To Net: NetName=NetC12_2 Pin=U2-31
+Added Pin To Net: NetName=3V3 Pin=U2-32
+Added Pin To Net: NetName=485_EN Pin=U2-41
+Added Pin To Net: NetName=UART1_TX Pin=U2-42
+Added Pin To Net: NetName=UART1_RX Pin=U2-43
+Added Pin To Net: NetName=USB_DN Pin=U2-44
+Added Pin To Net: NetName=USB_DP Pin=U2-45
+Added Pin To Net: NetName=SWDIO Pin=U2-46
+Added Pin To Net: NetName=NetC11_2 Pin=U2-47
+Added Pin To Net: NetName=3V3 Pin=U2-48
+Added Pin To Net: NetName=SWCLK Pin=U2-49
+Added Pin To Net: NetName=I2C1_CS Pin=U2-57
+Added Pin To Net: NetName=I2C1_SCL Pin=U2-58
+Added Pin To Net: NetName=I2C1_SDA Pin=U2-59
+Added Pin To Net: NetName=NetR5_2 Pin=U2-60
+Added Pin To Net: NetName=CAN_RX Pin=U2-61
+Added Pin To Net: NetName=CAN_TX Pin=U2-62
+Added Pin To Net: NetName=GND Pin=U2-63
+Added Pin To Net: NetName=3V3 Pin=U2-64
+Added Member To Class: ClassName=STM32F405 Member=Component U2 STM32F405RE
+Added Room: Name=STM32F405

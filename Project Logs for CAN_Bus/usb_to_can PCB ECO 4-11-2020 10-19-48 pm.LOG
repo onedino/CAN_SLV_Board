@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=LED1 Pin=U2-9
+Removed Pin From Net: NetName=LED2 Pin=U2-10
+Removed Pin From Net: NetName=LED3 Pin=U2-11
+Added Component: Designator=H?(HDR1X6)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=LED1 Pin=U2-27
+Added Pin To Net: NetName=LED2 Pin=U2-28
+Added Pin To Net: NetName=LED3 Pin=U2-29
+Added Member To Class: ClassName=STM32F405 Member=Component C1 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component C2 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component C3 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component C4 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component C5 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component C6 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component C7 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component C8 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component C9 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component C10 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component C11 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component C12 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component C13 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component C14 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component C15 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component C16 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component C17 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component C18 Cap
+Added Member To Class: ClassName=STM32F405 Member=Component D1 MBRA210LT3G
+Added Member To Class: ClassName=STM32F405 Member=Component D2 LED_Green_GullWing
+Added Member To Class: ClassName=STM32F405 Member=Component D3 LED_Green_GullWing
+Added Member To Class: ClassName=STM32F405 Member=Component D4 LED_Green_GullWing
+Added Member To Class: ClassName=STM32F405 Member=Component H1 ST-Link
+Added Member To Class: ClassName=STM32F405 Member=Component H? Programmer
+Added Member To Class: ClassName=STM32F405 Member=Component I2C Header 5
+Added Member To Class: ClassName=STM32F405 Member=Component L1 inductor
+Added Member To Class: ClassName=STM32F405 Member=Component Q1 Enhancing mode mosfet
+Added Member To Class: ClassName=STM32F405 Member=Component R1 Res1
+Added Member To Class: ClassName=STM32F405 Member=Component R2 Res1
+Added Member To Class: ClassName=STM32F405 Member=Component R3 Res1
+Added Member To Class: ClassName=STM32F405 Member=Component R4 Res1
+Added Member To Class: ClassName=STM32F405 Member=Component R5 Res1
+Added Member To Class: ClassName=STM32F405 Member=Component R6 Res1
+Added Member To Class: ClassName=STM32F405 Member=Component R7 Res1
+Added Member To Class: ClassName=STM32F405 Member=Component R8 Res1
+Added Member To Class: ClassName=STM32F405 Member=Component R9 Res1
+Added Member To Class: ClassName=STM32F405 Member=Component R10 Res1
+Added Member To Class: ClassName=STM32F405 Member=Component R11 Res1
+Added Member To Class: ClassName=STM32F405 Member=Component R12 Res1
+Added Member To Class: ClassName=STM32F405 Member=Component R13 Res1
+Added Member To Class: ClassName=STM32F405 Member=Component R14 Res1
+Added Member To Class: ClassName=STM32F405 Member=Component R15 Res1
+Added Member To Class: ClassName=STM32F405 Member=Component RN1 resistor network
+Added Member To Class: ClassName=STM32F405 Member=Component S1 SW_THT_PB_4.3mm
+Added Member To Class: ClassName=STM32F405 Member=Component SPI1 Header 6
+Added Member To Class: ClassName=STM32F405 Member=Component U1 TLV62569
+Added Member To Class: ClassName=STM32F405 Member=Component U3 SN65HVD485E
+Added Member To Class: ClassName=STM32F405 Member=Component UART1 Programmer
+Added Member To Class: ClassName=STM32F405 Member=Component USB1 USB Micro Type B
+Added Member To Class: ClassName=STM32F405 Member=Component X1 ASE-8.000MHZ-LC-T

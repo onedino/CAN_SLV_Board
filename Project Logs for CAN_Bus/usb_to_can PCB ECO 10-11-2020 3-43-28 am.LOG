@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=R10 NewDesignator=R15
+Change Component Designator: OldDesignator=R11 NewDesignator=R18
+Added Member To Class: ClassName=STM32F405 Member=Component R15 Res1
+Added Member To Class: ClassName=STM32F405 Member=Component R18 Res1

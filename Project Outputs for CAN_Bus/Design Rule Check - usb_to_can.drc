@@ -1,0 +1,50 @@
+Protel Design System Design Rule Check
+PCB File : D:\Altium_project\STM32F405_CAN_bus\usb_to_can.PcbDoc
+Date     : 12/11/2020
+Time     : 5:09:29 pm
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=100mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.4mm) (Max=100mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.08mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.08mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.08mm) Between Pad R11-2(80.139mm,69.3mm) on Bottom Layer And Text "U4" (81.2mm,69.4mm) on Bottom Overlay [Bottom Overlay] to [Solder Side] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.049mm < 0.08mm) Between Pad R14-1(105.55mm,60.2mm) on Top Layer And Track (105.028mm,59.252mm)(105.028mm,61.252mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.049mm]
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=0.08mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 2
+Waived Violations : 0
+Time Elapsed        : 00:00:00

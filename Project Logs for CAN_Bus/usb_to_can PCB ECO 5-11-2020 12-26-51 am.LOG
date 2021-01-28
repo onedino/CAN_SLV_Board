@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=SPI1 Old Footprint=HDR1X6 New Footprint=1x6_HDR_2.00mm_PH
+Added Member To Class: ClassName=STM32F405 Member=Component D2 LED_Green_GullWing

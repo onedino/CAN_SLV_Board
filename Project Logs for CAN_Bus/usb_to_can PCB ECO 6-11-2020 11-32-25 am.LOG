@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=485_H Pin=R14-2
+Removed Pin From Net: NetName=485_L Pin=R15-1
+Removed Pin From Net: NetName=485_H Pin=RS485-2
+Removed Pin From Net: NetName=485_L Pin=RS485-3
+Added Pin To Net: NetName=485_L Pin=R14-2
+Added Pin To Net: NetName=485_H Pin=R15-1
+Added Pin To Net: NetName=485_L Pin=RS485-2
+Added Pin To Net: NetName=485_H Pin=RS485-3

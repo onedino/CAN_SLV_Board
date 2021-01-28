@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=H1 Old Footprint=ST-Link New Footprint=1x3POS_HEADER
+Added Member To Class: ClassName=STM32F405 Member=Component RN1 resistor network

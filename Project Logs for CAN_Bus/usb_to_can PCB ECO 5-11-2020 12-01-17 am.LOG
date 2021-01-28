@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=5V Pin=R16-2
+Added Pin To Net: NetName=5VP Pin=R16-2
+Added Member To Class: ClassName=STM32F405 Member=Component D2 LED_Green_GullWing
+Added Member To Class: ClassName=STM32F405 Member=Component R16 Res1
+Added Member To Class: ClassName=STM32F405 Member=Component R17 Res1

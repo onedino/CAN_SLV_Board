@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=LED1 Pin=U2-27
+Removed Pin From Net: NetName=LED2 Pin=U2-28
+Removed Pin From Net: NetName=LED3 Pin=U2-29
+Removed Pin From Net: NetName=I2C1_SDA Pin=U3-5
+Removed Pin From Net: NetName=I2C1_SCL Pin=U3-6
+Removed Member From Class: ClassName=STM32F405 Member=R8
+Removed Member From Class: ClassName=STM32F405 Member=R9
+Removed Member From Class: ClassName=STM32F405 Member=R12
+Added Component: Designator=RN2(RESCAXS50P160X320X70-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "4K7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=RN2-1
+Added Pin To Net: NetName=3V3 Pin=RN2-2
+Added Pin To Net: NetName=GND Pin=RN2-4
+Added Pin To Net: NetName=LED1 Pin=U2-24
+Added Pin To Net: NetName=LED2 Pin=U2-25
+Added Pin To Net: NetName=LED3 Pin=U2-26
+Added Pin To Net: NetName=I2C2_SCL Pin=RN2-7
+Added Pin To Net: NetName=I2C2_SCL Pin=U2-29
+Added Pin To Net: NetName=I2C2_SCL Pin=U3-6
+Added Net: Name=I2C2_SCL
+Added Pin To Net: NetName=I2C2_SDA Pin=RN2-8
+Added Pin To Net: NetName=I2C2_SDA Pin=U2-30
+Added Pin To Net: NetName=I2C2_SDA Pin=U3-5
+Added Net: Name=I2C2_SDA
+Added Pin To Net: NetName=SP Pin=RN2-5
+Added Pin To Net: NetName=SP Pin=U2-28
+Added Pin To Net: NetName=SP Pin=U3-7
+Added Net: Name=SP
+Added Member To Class: ClassName=STM32F405 Member=Component RN2 resistor network

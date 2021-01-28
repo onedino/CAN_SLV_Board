@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=P3 NewDesignator=RS485
+Added Member To Class: ClassName=STM32F405 Member=Component D2 LED_Green_GullWing
